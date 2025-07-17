@@ -1,3 +1,5 @@
 .terraform
 *.tfstate*
 *.tfvars
+mcp-server
+mcp
